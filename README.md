@@ -1,5 +1,5 @@
 # Calling-Conventions "Escape Room"
-CPEG 476 secure software design project about x86 calling conventions. An 'escape room' filled with questions at each room about calling conventions; try to get out of the stack by answering questions correctly. 
+CPEG 476 secure software design project about x86 calling conventions. A terminal/command line 'escape room' filled with questions at each room about calling conventions; try to get out of the stack by answering questions correctly. 
 
 ## Requirements
 
