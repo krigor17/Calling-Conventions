@@ -7,7 +7,7 @@ To run this project, you need to have Java installed.
 
 ## Running the Application
 
-1. Navigate to the directory where this download (Main.java) is located in terminal/command line:
+1. In terminal/command line, navigate to the directory where this download (Main.java) is located in
 
 2. Compile:
    ```zsh
